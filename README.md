@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adebayo Idris
 - 👀 I’m interested in Software Engineering and Devops
 - 🌱 I’m currently learning software Development @ALX
-- 💞️ I’m looking to collaborate on ...with software engineer across the world
+- 💞️ I’m looking to collaborate with software engineer across the world
 - 📫 How to reach me ...
 - Email- adebayoidris051@gmail.com
 - Twitter @eedrees3
